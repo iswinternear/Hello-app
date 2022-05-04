@@ -5,11 +5,9 @@ import mysql.connector
 
 # create database
 """
-uncomment line 14-22
-comment line   24-126
-or
-copy line and paste to another file
-don't forget to import mysql.connector
+create new py file
+import mysql.connector
+copy line 12-20 and paste to file
 """
 # db = mysql.connector.connect(
 #     host="localhost",
